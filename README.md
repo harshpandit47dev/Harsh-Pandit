@@ -1,64 +1,30 @@
-# Harsh-Pandit
-# 👋 Hi, I'm Harsh Pandit
+# Harsh Pandit
 
-### 🚀 Vibe Coder | 💻 Web Developer | ✨ Creative Technologist
+### Vibe Coder · AI-Powered Development · App & Web Builder
 
-I build **modern, interactive, and visually premium digital experiences** — turning ideas into polished websites and products through code, design, and AI.
+Building ideas into elegant digital experiences.
 
----
-
-## 🧠 About Me
-
-- 💻 **Vibe Coder** who loves turning ideas into real products
-- 🌐 Building modern websites with a strong focus on **UI/UX**
-- 🎨 Passionate about **premium design, animations, and 3D experiences**
-- 🤖 Exploring **AI-assisted development and creative coding**
-- ⚡ Interested in performance, responsiveness, and clean architecture
-- 🧪 Always experimenting with new technologies and ideas
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=8B949E&center=false&vCenter=true&width=500&lines=Building+apps+and+websites;Crafting+clean+UI%2FUX;Turning+ideas+into+reality+with+AI)
 
 ---
 
-## 🛠️ Tech Stack
+### What I Do
 
-### Frontend
+- ✦ AI-assisted development & rapid prototyping
+- ✦ Modern website and application development
+- ✦ Clean UI/UX and responsive interfaces
+- ✦ Turning concepts into working products
 
-- ⚛️ React
-- ▲ Next.js
-- 🌐 HTML5
-- 🎨 CSS3
-- 🟦 JavaScript / TypeScript
-- 💨 Tailwind CSS
+### Tech & Tools
 
-### Creative & 3D
+![Tools](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,git,github,vscode&theme=dark)
 
-- 🎭 Three.js
-- 🧊 React Three Fiber
-- ✨ GSAP
-- 🎬 WebGL
-- 🖌️ UI/UX Design
-- 🌌 Interactive 3D Experiences
+### GitHub Activity
 
-### Tools & AI
-
-- 🤖 AI-assisted Development
-- 💻 VS Code
-- ⚡ OpenCode
-- 🐙 Git & GitHub
-- ▲ Vercel
-- 🧠 AI Coding Tools
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshpandit47dev&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B949E&text_color=8B949E&icon_color=8B949E)
 
 ---
 
-## 🚀 What I Build
+*Think it. Build it. Ship it.*
 
-```text
-╭──────────────────────────────────────────────╮
-│                                              │
-│   ✦ Premium Websites                         │
-│   ✦ Interactive 3D Experiences               │
-│   ✦ Modern Landing Pages                     │
-│   ✦ AI-Powered Projects                      │
-│   ✦ Creative Web Experiences                │
-│   ✦ Responsive UI/UX                         │
-│                                              │
-╰──────────────────────────────────────────────╯
+[GitHub](https://github.com/harshpandit47dev) · [X / Twitter](https://x.com/Harsh_dev47)
